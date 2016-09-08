@@ -1,0 +1,22 @@
+{
+  "Categories": {
+    "Category": [
+      {
+        "cat_id": "33333333333333333",
+        "cat_name": "test"
+      },
+      {
+        "cat_id": "44444444444444444444",
+        "cat_name": "test1"
+      },
+      {
+        "cat_id": "5",
+        "cat_name": "test2"
+      },
+      {
+        "cat_id": "6",
+        "cat_name": "test3"
+      }
+    ]
+  }
+}
